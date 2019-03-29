@@ -1,0 +1,38 @@
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe.config
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.pdb
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.dll
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.xml
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csprojResolveAssemblyReference.cache
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.exe
+D:\EASJ\3rd Sem\Projects\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.pdb
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe.config
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.pdb
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csprojAssemblyReference.cache
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csproj.CoreCompileInputs.cache
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csproj.CopyComplete
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.exe
+D:\Projects\VS\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.pdb
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe.config
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.pdb
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csprojAssemblyReference.cache
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csproj.CoreCompileInputs.cache
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csproj.CopyComplete
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.exe
+D:\Projects\VS\New folder\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.pdb
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe.config
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.exe
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\WCFPersonRestConsumer.pdb
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.dll
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\bin\Debug\Newtonsoft.Json.xml
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csprojAssemblyReference.cache
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csproj.CoreCompileInputs.cache
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.csproj.CopyComplete
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.exe
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRestConsumer\WCFPersonRestConsumer\obj\Debug\WCFPersonRestConsumer.pdb

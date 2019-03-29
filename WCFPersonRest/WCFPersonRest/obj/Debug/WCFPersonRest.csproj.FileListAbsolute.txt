@@ -1,0 +1,21 @@
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.dll.config
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.dll
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.pdb
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.dll
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.pdb
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.csprojAssemblyReference.cache
+D:\EASJ\3rd Sem\Projects\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.csproj.CoreCompileInputs.cache
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.dll.config
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.dll
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.pdb
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.csprojAssemblyReference.cache
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.csproj.CoreCompileInputs.cache
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.dll
+D:\Projects\VS\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.pdb
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.dll.config
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.dll
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\bin\WCFPersonRest.pdb
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.csprojAssemblyReference.cache
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.csproj.CoreCompileInputs.cache
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.dll
+E:\College\Bachelors Degree\KEA\2nd Sem\System Integration\Mandatory-Assignments\Pasa\WCFPersonRest\WCFPersonRest\obj\Debug\WCFPersonRest.pdb
